@@ -14,4 +14,3 @@
 - <b>Sysadmin Technical Write-up</b>
   - [Sysadmin Technical Write-up](https://docs.google.com/document/d/1gVLCyQ6xh4IjrKU7cfmASIbEbZD4ntYct9rS3rjVPJA/edit?usp=sharing)
 - <b>Resume</b>
-  - [Cole Angelone Resume 2024](https://docs.google.com/document/d/1SdVJqNm1xpyvBbXORpghiOro2YdfhLpS5nXJGfCwfRs/edit?usp=sharing)
