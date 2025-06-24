@@ -13,4 +13,3 @@
   - [Unveiling the Web's Secrets A Deep Dive into Google Dorking](https://collincollege620-my.sharepoint.com/:w:/g/personal/cangelone2_collin_edu/ETot0uCOJ7NPuLXOF3JdIOQBgDOFCe2wLhciWfWeR-n0Bw?e=vQjumF)
 - <b>Sysadmin Technical Write-up</b>
   - [Sysadmin Technical Write-up](https://docs.google.com/document/d/1gVLCyQ6xh4IjrKU7cfmASIbEbZD4ntYct9rS3rjVPJA/edit?usp=sharing)
-- <b>Resume</b>
